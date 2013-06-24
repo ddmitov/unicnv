@@ -1,0 +1,21 @@
+
+Program: ANSI to UTF-8 Converter v.1.0
+
+Description: Convert a single text/HTML file from ANSI to UTF-8 encoding.
+
+Requirements: Windows 98/Me/2000/XP
+
+License: GPL 2. See gpl2.txt
+
+Author: Dimitar D. Mitov ddmitov@yahoo.com
+
+Usage: Start ansi2utf.exe and select an input file using the standard Windows File Open dialog.
+PLEASE NOTE!
+Byte Order Mark (BOM) will be added to your output UTF-8 encoded files!
+Filename extensions are not automatically added in the "Save Output as UTF-8 File" dialog box.
+
+Compilation: ANSI to UTF-8 Converter is a NSIS program. To compile it from source you need:
+	1.) NSIS v.2.x. (http://nsis.sourceforge.net/) Binaries were compiled using version 2.23.
+	You need also two additional NSIS plugins to your standard NSIS instalation (included):
+	2.) Dialogs v.2.3 by Joel Almeida Garcia aka Lobo Lunar (lobolunarnet@yahoo.com.mx) and
+	3.) Unicode v.1.0 by Aleksander Shengalts aka Instructor (Shengalts@mail.ru).
