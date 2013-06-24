@@ -15,6 +15,6 @@ Filename extensions are not automatically added in the "Save Output as UTF-8 Fil
 
 Compilation: ANSI to UTF-8 Converter is a NSIS program. To compile it from source you need:
 	1.) NSIS v.2.x. (http://nsis.sourceforge.net/) Binaries were compiled using version 2.23.
-	You need also two additional NSIS plugins to your standard NSIS instalation:
+	You also need two additional NSIS plugins to your standard NSIS instalation:
 	2.) Dialogs v.2.3 by Joel Almeida Garcia aka Lobo Lunar (lobolunarnet@yahoo.com.mx) and
 	3.) Unicode v.1.0 by Aleksander Shengalts aka Instructor (Shengalts@mail.ru).
